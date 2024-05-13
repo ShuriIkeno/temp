@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddb7\ud83d\udd90\ufe0f",
+      "description": "getting ready for work\n\n3) work at the cafe counter at 9:00 am\n4) serve customers at the cafe at 10:00 am\n5) take a short break at 11:00 am\n6) prepare lunch for herself and her employees at 12:00 pm\n7) have lunch at 1:00 pm\n8) work on party preparations for Valentine's Day at 2:00 pm\n9) decorate the cafe for the party at 3:00 pm\n10) finalize party details at 4:00 pm\n11) get ready to host the Valentine's Day party at Hobbs Cafe at 5:00 pm\n12) interact with customers at the party at 6:00 pm\n13) enjoy the party with her customers at 7:00 pm\n14) close Hobbs Cafe at 8:00 pm\n15) clean up the cafe at 9:00 pm\n16) prepare for bed at 10:00 pm\n17) go to sleep at 11:00 pm\n\nIsabella Rodriguez's day is filled with work, preparations for the Valentine's Day party, and interacting with customers to make sure they have a great experience at Hobbs Cafe (waking up and completing her morning routine) (brushing her teeth and washing her face) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        54
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing his morning routine. \n[(ID:Hlm3kT) Monday February 13 -- 08:00 AM] Activity: Klaus is at the library at Oak Hill College.\n[(ID:TSxg38) Monday February 13 -- 09:00 AM] Activity: Klaus is working on his research paper on the effects of gentrification in low-income communities.\n[(ID:PAff9k) Monday February 13 -- 10:00 AM] Activity: Klaus is working on his research paper on the effects of gentrification in low-income communities.\n[(ID:QtFb7g) Monday February 13 -- 11:00 AM] Activity: Klaus is working on his research paper on the effects of gentrification in low-income communities.\n[(ID:Esd4Wz) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe.\n[(ID:Zaeb7m) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:8qzaY9) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:Hg7UjR) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:VZxedf) Monday February 13 -- 04:00 PM] Activity: Klaus is taking a break and grabbing a coffee.\n[(ID:RtqO95) Monday February 13 -- 05:00 PM] Activity: Klaus is working on his research paper.\n[(ID:QKYf6p) Monday February 13 -- 06:00 PM] Activity: Klaus is working on his research paper.\n[(ID:Wu37Sr) Monday February 13 -- 07:00 PM] Activity: Klaus is having dinner (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:14:50"
+  }
+}

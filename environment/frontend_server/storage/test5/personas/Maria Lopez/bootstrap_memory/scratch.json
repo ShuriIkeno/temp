@@ -1,0 +1,223 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:01:00",
+  "curr_tile": [
+    123,
+    57
+  ],
+  "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 142,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am",
+    "begin studying for her physics exam at 10:00 am",
+    "take a break and have lunch at 12:00 pm",
+    "continue studying until 3:00 pm",
+    "go to Hobbs Cafe to relax and have a coffee at 4:00 pm",
+    "return home and stream games on Twitch from 5:00 pm to 8:00 pm",
+    "have dinner at 8:30 pm",
+    "continue streaming games on Twitch from 9:00 pm to 12:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (preparing breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (checking her phone and responding to messages)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (gathering her study materials)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed (leaving her bedroom and heading to her study area)",
+      15
+    ],
+    [
+      "studying for her physics exam",
+      60
+    ],
+    [
+      "taking a break and having a snack",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "taking a break and browsing social media\n[(ID:JOzRZX) Monday February 13 -- 02:00 PM] Activity: Maria is studying for her physics exam\n[(ID:tWGmv6) Monday February 13 -- 03:00 PM] Activity: Maria is taking a break and having a snack\n[(ID:wgk55j) Monday February 13 -- 05:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:hNspoG) Monday February 13 -- 09:00 PM] Activity: Maria is having dinner\n[(ID:hNspoG) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:hNspoG) Monday February 13 -- 11:00 PM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "taking a break and browsing social media",
+      60
+    ],
+    [
+      "continuing to study for her physics exam\n[(ID:Op5yhV) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:Op5yhV) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:Op5yhV) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:Op5yhV) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:Op5yhV) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "going to Hobbs Cafe to relax and have a coffee, 9) return home and stream games on Twitch from 5:00 pm to 8:00 pm, 9) have dinner at 8:30 pm, 10) continue streaming games on Twitch from 9:00 pm to 12:00 am, 11) end her stream and go to bed at 12:00 am. \n\nNote: The schedule provided includes some duplicate entries and activities that do not match Maria's lifestyle as described",
+      60
+    ],
+    [
+      "streaming games on Twitch\n[(ID:G6CG0F) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:G6CG0F) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:G6CG0F) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "streaming games on Twitch\n[(ID:FMJjM3) Monday February 13 -- 07:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:FMJjM3) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner \n[(ID:FMJjM3) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch",
+      60
+    ],
+    [
+      "streaming games on Twitch to make some extra money \n\n[(ID:gbKyMN) Monday February 13 -- 07:00 PM] Activity: Maria is streaming games on Twitch to make some extra money",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "continuing to stream games on Twitch\n[(ID:RKNlW3) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "continuing to study for her physics exam",
+      60
+    ],
+    [
+      "ending her stream and going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:fMrojg) Monday February 13 -- 10:00 AM] Activity: Maria is studying for her physics exam\n[(ID:fMrojg) Monday February 13 -- 12:00 PM] Activity: Maria is taking a break and having lunch\n[(ID:fMrojg) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to study for her physics exam\n[(ID:fMrojg) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:fMrojg) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:fMrojg) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:fMrojg) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:fMrojg) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "studying for her physics exam",
+      60
+    ],
+    [
+      "taking a break and having a snack",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "taking a break and browsing social media\n[(ID:JOzRZX) Monday February 13 -- 02:00 PM] Activity: Maria is studying for her physics exam\n[(ID:tWGmv6) Monday February 13 -- 03:00 PM] Activity: Maria is taking a break and having a snack\n[(ID:wgk55j) Monday February 13 -- 05:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:hNspoG) Monday February 13 -- 09:00 PM] Activity: Maria is having dinner\n[(ID:hNspoG) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:hNspoG) Monday February 13 -- 11:00 PM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "taking a break and browsing social media",
+      60
+    ],
+    [
+      "continuing to study for her physics exam\n[(ID:Op5yhV) Monday February 13 -- 04:00 PM] Activity: Maria is going to Hobbs Cafe to relax and have a coffee\n[(ID:Op5yhV) Monday February 13 -- 05:00 PM] Activity: Maria is returning home and streaming games on Twitch\n[(ID:Op5yhV) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:Op5yhV) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:Op5yhV) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "going to Hobbs Cafe to relax and have a coffee, 9) return home and stream games on Twitch from 5:00 pm to 8:00 pm, 9) have dinner at 8:30 pm, 10) continue streaming games on Twitch from 9:00 pm to 12:00 am, 11) end her stream and go to bed at 12:00 am. \n\nNote: The schedule provided includes some duplicate entries and activities that do not match Maria's lifestyle as described",
+      60
+    ],
+    [
+      "streaming games on Twitch\n[(ID:G6CG0F) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner\n[(ID:G6CG0F) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch\n[(ID:G6CG0F) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "streaming games on Twitch\n[(ID:FMJjM3) Monday February 13 -- 07:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:FMJjM3) Monday February 13 -- 08:00 PM] Activity: Maria is having dinner \n[(ID:FMJjM3) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to stream games on Twitch",
+      60
+    ],
+    [
+      "streaming games on Twitch to make some extra money \n\n[(ID:gbKyMN) Monday February 13 -- 07:00 PM] Activity: Maria is streaming games on Twitch to make some extra money",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "continuing to stream games on Twitch\n[(ID:RKNlW3) Monday February 13 -- 12:00 AM] Activity: Maria is ending her stream and going to bed",
+      60
+    ],
+    [
+      "continuing to study for her physics exam",
+      60
+    ],
+    [
+      "ending her stream and going to bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 540,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Maria Lopez",
+    "sleep",
+    ""
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd28\u2692",
+  "act_obj_event": [
+    "bed",
+    "use",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

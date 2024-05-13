@@ -1,0 +1,363 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:20:00",
+  "curr_tile": [
+    65,
+    39
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 97,
+  "importance_ele_n": 25,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "arrive at Hobbs Cafe at 8:00 am to open for business",
+    "greet customers and take their orders at the counter throughout the day",
+    "work on preparations for the Valentine's Day party and gather party materials",
+    "advertise the party to customers and let them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm",
+    "close the cafe at 8:00 pm",
+    "return home and wind down for the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (doing her hair)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (applying makeup)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g (putting on her jewelry)",
+      5
+    ],
+    [
+      "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (showering and getting dressed)",
+      20
+    ],
+    [
+      "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (having breakfast)",
+      15
+    ],
+    [
+      "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (gathering her things and getting ready to leave)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (arriving at Hobbs Cafe and unlocking the doors)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (turning on the lights and opening the blinds)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (turning on the coffee machines and other equipment)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (checking the inventory and restocking any needed items)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (preparing the counter and display area for the day's offerings)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (organizing the seating area and ensuring it is clean and presentable)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (setting up any special decorations or signs for the Valentine's Day party)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (preparing herself by putting on her apron and nametag)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (ready to greet customers and start taking their orders)",
+      5
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (greeting customers as they enter Hobbs Cafe)",
+      10
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (taking their orders and entering them into the cash register)",
+      10
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (preparing their drinks or food orders)",
+      15
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (serving the customers their orders)",
+      10
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (accepting payments and giving change)",
+      5
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (bidding the customers farewell and thanking them for visiting)",
+      10
+    ],
+    [
+      "working on preparations for the Valentine's Day party and gathering party materials",
+      60
+    ],
+    [
+      "continuing preparations for the party and managing the cafe\n[(ID:TahlLa) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:WKUF6G) Monday February 13 -- 01:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:4RsVlB) Monday February 13 -- 02:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:JJIb0s) Monday February 13 -- 03:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BerS3x) Monday February 13 -- 04:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:96Z4vd) Monday February 13 -- 05:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:plKqDc) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:S1T3fm) Monday February 13 -- 07:00 PM] Activity: Isabella is getting ready for bed\n[(ID:zSvz8N) Monday February 13 -- 08:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "continuing preparations for the party and managing the cafe\n\n[(ID:LhHeUm) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n\n[(ID:vcV7hA) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n\n[(ID:WpxJtC) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n\n[(ID:IkXDFM) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n\n[(ID:w6BHcZ) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n\n[(ID:yCvHTU) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n\n[(ID:pmb0jH) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n\n[(ID:jeVEIr) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n\n[(ID:me1pkL) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "serving customers at the counter and attending to their needs\n[(ID:6MjL9B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:Watp0g) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:iV047D) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:xRrOl9) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:pkAyKH) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:HC1PCE) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:YOwPKN) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:RQhG03) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "checking inventory and ordering supplies for the cafe\n[(ID:wSno8B) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:o3yo8B) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:p9yo8B) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:q9yo8B) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:r9yo8B) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:s9yo8B) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:t9yo8B) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:rJSZAB) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:84qNwF) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:C38DtM) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:QsIPVM) Monday February 13",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      480
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:lkhG5d) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready for the day\n[(ID:s8ucNh) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:lm88Eb) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:k7gX2t) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:g",
+      60
+    ],
+    [
+      "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "greeting customers and taking their orders at the counter\n[(ID:juVZVr) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:PMUJbe) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:HBx5rK) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:6TzAr5) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pYbflq) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:qxaDTF) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:smivlm) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:Lv2Wvu) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:5x0Wmc) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:VZh6Yz) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:fxT0VK) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:C4J4yD) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "working on preparations for the Valentine's Day party and gathering party materials",
+      60
+    ],
+    [
+      "continuing preparations for the party and managing the cafe\n[(ID:TahlLa) Monday February 13 -- 12:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:WKUF6G) Monday February 13 -- 01:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:4RsVlB) Monday February 13 -- 02:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:JJIb0s) Monday February 13 -- 03:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BerS3x) Monday February 13 -- 04:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:96Z4vd) Monday February 13 -- 05:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:plKqDc) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:S1T3fm) Monday February 13 -- 07:00 PM] Activity: Isabella is getting ready for bed\n[(ID:zSvz8N) Monday February 13 -- 08:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "continuing preparations for the party and managing the cafe\n\n[(ID:LhHeUm) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n\n[(ID:vcV7hA) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n\n[(ID:WpxJtC) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n\n[(ID:IkXDFM) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n\n[(ID:w6BHcZ) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n\n[(ID:yCvHTU) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n\n[(ID:pmb0jH) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n\n[(ID:jeVEIr) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n\n[(ID:me1pkL) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "serving customers at the counter and attending to their needs\n[(ID:6MjL9B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:Watp0g) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:iV047D) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:xRrOl9) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:pkAyKH) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:HC1PCE) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:YOwPKN) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:RQhG03) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "checking inventory and ordering supplies for the cafe\n[(ID:wSno8B) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:o3yo8B) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:p9yo8B) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:q9yo8B) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:r9yo8B) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:s9yo8B) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:t9yo8B) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day",
+      60
+    ],
+    [
+      "working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:rJSZAB) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:84qNwF) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:C38DtM) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:QsIPVM) Monday February 13",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      480
+    ]
+  ],
+  "act_address": "the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+  "act_start_time": "February 13, 2023, 08:15:00",
+  "act_duration": 10,
+  "act_description": "opening Hobbs Cafe for business\n[(ID:7OzZaC) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:mRc2ID) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:9ZBapJ) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:YN5d1h) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:lHrs0l) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:hzQG0N) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:IoK5Gf) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:sYymGl) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:BNEHW5) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:sbYynf) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:FcVFhN) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:P0MShy) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:bvlzhz) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (checking the inventory and restocking any needed items)",
+  "act_pronunciatio": "\ud83d\udce6\ud83d\udd04",
+  "act_event": [
+    "Isabella Rodriguez",
+    "check",
+    "inventory"
+  ],
+  "act_obj_description": "being restocked",
+  "act_obj_pronunciatio": "\ud83d\udce6\u2b06\ufe0f",
+  "act_obj_event": [
+    "supply store product shelf",
+    "restock",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      65,
+      41
+    ],
+    [
+      65,
+      42
+    ],
+    [
+      65,
+      43
+    ],
+    [
+      65,
+      44
+    ],
+    [
+      65,
+      45
+    ],
+    [
+      65,
+      46
+    ],
+    [
+      65,
+      47
+    ],
+    [
+      65,
+      48
+    ],
+    [
+      64,
+      48
+    ]
+  ]
+}

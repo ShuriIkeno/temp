@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "getting ready for the day\n[(ID:W1bo46) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe for business\n[(ID:9daPUd) Monday February 13 -- 09:00 AM] Activity: Isabella is greeting customers and taking their orders at the counter\n[(ID:lP7LDc) Monday February 13 -- 10:00 AM] Activity: Isabella is working on preparations for the Valentine's Day party and gathering party materials\n[(ID:xPZ0yD) Monday February 13 -- 11:00 AM] Activity: Isabella is advertising the party to customers and letting them know about the event happening on February 14th, 2023 from 5:00 pm to 7:00 pm\n[(ID:amsrrr) Monday February 13 -- 12:00 PM] Activity: Isabella is continuing preparations for the party and managing the cafe\n[(ID:SZ00Eb) Monday February 13 -- 01:00 PM] Activity: Isabella is serving customers at the counter and attending to their needs\n[(ID:pmKu4B) Monday February 13 -- 02:00 PM] Activity: Isabella is checking inventory and ordering supplies for the cafe\n[(ID:HKvWlD) Monday February 13 -- 03:00 PM] Activity: Isabella is working on the cafe's social media presence and promoting the Valentine's Day party\n[(ID:qHfLc1) Monday February 13 -- 04:00 PM] Activity: Isabella is closing Hobbs Cafe for the day\n[(ID:rtbOkb) Monday February 13 -- 05:00 PM] Activity: Isabella is winding down for the evening and preparing for tomorrow's activities\n[(ID:wJTiAA) Monday February 13 -- 06:00 PM] Activity: Isabella is spending time with her family and enjoying some leisure activities\n[(ID:YYXh5b) Monday February 13 -- 07:00 PM] Activity: Isabella is having dinner and relaxing after a busy day\n[(ID:sIOBGC) Monday February 13 -- 08:00 PM] Activity: Isabella is getting ready for bed\n[(ID:KpTHYf) Monday February 13 -- 09:00 PM] Activity: Isabella is going to sleep to rest for the next day (showering and getting dressed) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecc",
+      "description": "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (waking up and getting out of bed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:04:00"
+  }
+}

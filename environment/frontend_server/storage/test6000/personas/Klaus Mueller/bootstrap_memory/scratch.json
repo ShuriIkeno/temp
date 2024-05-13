@@ -1,0 +1,290 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:20:00",
+  "curr_tile": [
+    123,
+    48
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 32,
+  "importance_ele_n": 54,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "spend the morning writing his research paper on the effects of gentrification in low-income communities",
+    "have lunch at Hobbs Cafe at 12:00 pm",
+    "continue working on his research paper in the afternoon",
+    "take a break for dinner at 5:00 pm",
+    "spend the evening relaxing and preparing for the next day"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (using the bathroom and brushing his teeth)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (preparing and eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (checking his schedule and preparing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (leaving the house and heading to the library at Oak Hill College)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (getting out of bed and getting dressed)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (preparing breakfast and eating)",
+      15
+    ],
+    [
+      "going to the library at Oak Hill College (packing his backpack with his research materials)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (gathering his belongings and leaving his condo)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College (walking to the library at Oak Hill College)",
+      20
+    ],
+    [
+      "going to the library at Oak Hill College (finding a table and setting up his workspace)",
+      10
+    ],
+    [
+      "writing his research paper\n[(ID:8GzG1v) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:Tnd7KX) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:Bqf8Dg) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:vIzh0h) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LMrJ1M) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2rb8NY) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:qlJ1X0) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:SrpGvu) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9HvD0p) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:apQb4t) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NtYz0h) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:8v0E5g) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:V9HHs7) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:H1xogP) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (reading research papers and articles related to his topic)",
+      15
+    ],
+    [
+      "writing his research paper\n[(ID:8GzG1v) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:Tnd7KX) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:Bqf8Dg) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:vIzh0h) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LMrJ1M) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2rb8NY) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:qlJ1X0) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:SrpGvu) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9HvD0p) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:apQb4t) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NtYz0h) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:8v0E5g) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:V9HHs7) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:H1xogP) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (taking notes on key points and themes from the research)",
+      20
+    ],
+    [
+      "writing his research paper\n[(ID:8GzG1v) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:Tnd7KX) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:Bqf8Dg) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:vIzh0h) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LMrJ1M) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2rb8NY) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:qlJ1X0) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:SrpGvu) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9HvD0p) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:apQb4t) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NtYz0h) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:8v0E5g) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:V9HHs7) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:H1xogP) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (organizing his notes into an outline for his paper)",
+      15
+    ],
+    [
+      "writing his research paper\n[(ID:8GzG1v) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:Tnd7KX) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:Bqf8Dg) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:vIzh0h) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LMrJ1M) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2rb8NY) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:qlJ1X0) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:SrpGvu) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9HvD0p) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:apQb4t) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NtYz0h) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:8v0E5g) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:V9HHs7) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:H1xogP) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed (writing the introduction and thesis statement for his paper)",
+      10
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities.\n[(ID:wXPwdW) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities.\n[(ID:BVQWvD) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe.\n[(ID:0vBC7X) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:bKl3RM) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:nZZ2sS) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:W76WF5) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:1xxR3N) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:oV1eM5) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:owlxaS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:FQZOhq) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:ZTdxv9) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:70C6Fq) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:6I1Hgq) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe.\n[(ID:u4QG9q) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:9OFK9S) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:uE830p) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:H65L9q) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:5a4GVE) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:gdG091) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:SXesJX) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:HwJGU6) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:2utqLT) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:g887zh) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:lFS5Qb) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "continuing to work on his research paper.\n[(ID:E8OxOM) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:wMCBNL) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:XhRJvP) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:3h4YfT) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:fKxWIh) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:bd0boW) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:2O96cL) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:LeXH3L) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:lsM2Qq) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:4HKPzl) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "continuing to work on his research paper",
+      180
+    ],
+    [
+      "taking a break for dinner",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day.\n[(ID:yVIGVF) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:btLu7D) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:uXy34H) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:bJTSts) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:LvFJeH) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day\n[(ID:Wu2lOF) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:AwEdBE) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:PsPlw3) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NfFx5R) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day\n[(ID:gT3xXH) Monday February 13 -- 10:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "going to bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:ffEoy8) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College\n[(ID:VZrLpD) Monday February 13 -- 09:00 AM] Activity: Klaus is writing his research paper\n[(ID:VGraDM) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:ymVEOm) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:ZnQhgm) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:VymrND) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:Qbxewo) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2txofJ) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:aa5uwJ) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:eE9XNG) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9aZX2y) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:t2D3uS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:hYG1Rr) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:IzHfDr) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:w1KGBt) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:zwYa8t) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "writing his research paper\n[(ID:8GzG1v) Monday February 13 -- 10:00 AM] Activity: Klaus is writing his research paper\n[(ID:Tnd7KX) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper\n[(ID:Bqf8Dg) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe\n[(ID:vIzh0h) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:LMrJ1M) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:2rb8NY) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:qlJ1X0) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper\n[(ID:SrpGvu) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner\n[(ID:9HvD0p) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:apQb4t) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NtYz0h) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:8v0E5g) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:V9HHs7) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:H1xogP) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities.\n[(ID:wXPwdW) Monday February 13 -- 11:00 AM] Activity: Klaus is writing his research paper on the effects of gentrification in low-income communities.\n[(ID:BVQWvD) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe.\n[(ID:0vBC7X) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:bKl3RM) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:nZZ2sS) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:W76WF5) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:1xxR3N) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:oV1eM5) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:owlxaS) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:FQZOhq) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:ZTdxv9) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:70C6Fq) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:6I1Hgq) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "writing his research paper on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe.\n[(ID:u4QG9q) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:9OFK9S) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:uE830p) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:H65L9q) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:5a4GVE) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:gdG091) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:SXesJX) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:HwJGU6) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:2utqLT) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:g887zh) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:lFS5Qb) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "continuing to work on his research paper.\n[(ID:E8OxOM) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:wMCBNL) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:XhRJvP) Monday February 13 -- 04:00 PM] Activity: Klaus is continuing to work on his research paper.\n[(ID:3h4YfT) Monday February 13 -- 05:00 PM] Activity: Klaus is taking a break for dinner.\n[(ID:fKxWIh) Monday February 13 -- 06:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:bd0boW) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:2O96cL) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:LeXH3L) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:lsM2Qq) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:4HKPzl) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "continuing to work on his research paper",
+      180
+    ],
+    [
+      "taking a break for dinner",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day.\n[(ID:yVIGVF) Monday February 13 -- 07:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:btLu7D) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:uXy34H) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:bJTSts) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day.\n[(ID:LvFJeH) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day\n[(ID:Wu2lOF) Monday February 13 -- 08:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:AwEdBE) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:PsPlw3) Monday February 13 -- 10:00 PM] Activity: Klaus is relaxing and preparing for the next day\n[(ID:NfFx5R) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day",
+      60
+    ],
+    [
+      "relaxing and preparing for the next day\n[(ID:gT3xXH) Monday February 13 -- 10:00 PM] Activity: Klaus is going to bed",
+      60
+    ],
+    [
+      "going to bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+  "act_start_time": "February 13, 2023, 08:05:00",
+  "act_duration": 15,
+  "act_description": "going to the library at Oak Hill College (preparing breakfast and eating)",
+  "act_pronunciatio": "\ud83c\udf73\ud83c\udf7d\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "prepare",
+    "breakfast"
+  ],
+  "act_obj_description": "in use",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "cooking area",
+    "use",
+    ""
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,168 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:01:00",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 142,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter until 8:00 pm",
+    "gather party materials for the Valentine's Day party",
+    "announce the party to customers and encourage them to attend"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (doing her hair)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (applying makeup)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (preparing and eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep (gathering her belongings for the day)",
+      15
+    ],
+    [
+      "getting ready to open Hobbs Cafe\n[(ID:HHe4yb) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:UIhqKr) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:3GZ60T) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:HdmQwr) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:6lOAul) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:uuAmIO) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:bh1cXg) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:zzaWP6) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:t0faHP) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:Ik5Bo2) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:zoYbJW) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:29ALXY) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:uJEKIt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:O6uuh1) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:tsJIcp) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:zndlrX) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "opening Hobbs Cafe\n[(ID:RvJQTp) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:VE8Ajx) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:NF73Jy) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:unzSre) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:tN1M1J) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:u36BGB) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:3f7I5Y) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:zPYXkl) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:xqBXkt) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:VVhGBG) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:Oelc8d) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:KE25Bx) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:Dv37Xd) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:oD9AJC) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:LKzRfq) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter\n[(ID:MuTy40) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:kSVc0F) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:EOoJVG) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:bJtkOx) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:X8cGBJ) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:eh8KnT) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:KfwnOp) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:TsV5UP) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:oqohsd) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:0ShmoH) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:a0OSJF) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:YzW9f1) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:SNc1Fc) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:kP1BI6) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter\n[(ID:hX1cWo) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:487YPZ) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:qCVM3e) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:QTn5d6) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:p3Rtxh) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:HeBXx7) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:v1PdKo) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:6Gqq4n) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:jqnUGH) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:8Auyu6) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:PrrfM8) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:X3wjqC) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:M7s29D) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter",
+      120
+    ],
+    [
+      "working at the counter\n[(ID:Hc7W7s) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:h0aJ1s) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:hj8vzs) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:i6B2Ls) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:j60OLs) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:jtcuks) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:krgDocs) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:lz6u3s) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:mbDLTs) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:nFg1R7) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep\n[(ID:onD2Rs) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine\n[(ID:puudNs) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:qYEoAs) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:rO5f4s) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:sPcN9s) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:t7gLLs) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:u53M5s) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:vjW6Ts) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:x5rT0s) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:yHtC8s) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:z7OK4s) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:A5tD5s) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:B37rDs) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:CkHZFs) Monday February 13 -- 07:00 PM] Activity",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      600
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:HfdkQ9) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:1ojWdo) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:Xsu2Xn) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:yxeacP) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:jbkw7T) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:kn9fal) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:O61FcZ) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:INJmXt) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:uIm6Tn) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:sIVW8n) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:kGTrf7) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:SNNTKT) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:4yF485) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:BL0YaT) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:D7ajiZ) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:1rpRGd) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:rK2xfn) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "getting ready to open Hobbs Cafe\n[(ID:HHe4yb) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:UIhqKr) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:3GZ60T) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:HdmQwr) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:6lOAul) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:uuAmIO) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:bh1cXg) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:zzaWP6) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:t0faHP) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:Ik5Bo2) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:zoYbJW) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:29ALXY) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:uJEKIt) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:O6uuh1) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:tsJIcp) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:zndlrX) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "opening Hobbs Cafe\n[(ID:RvJQTp) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:VE8Ajx) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:NF73Jy) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:unzSre) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:tN1M1J) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:u36BGB) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:3f7I5Y) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:zPYXkl) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:xqBXkt) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:VVhGBG) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:Oelc8d) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:KE25Bx) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:Dv37Xd) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:oD9AJC) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:LKzRfq) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter\n[(ID:MuTy40) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:kSVc0F) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:EOoJVG) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:bJtkOx) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:X8cGBJ) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:eh8KnT) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:KfwnOp) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:TsV5UP) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:oqohsd) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:0ShmoH) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:a0OSJF) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:YzW9f1) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:SNc1Fc) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:kP1BI6) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter\n[(ID:hX1cWo) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:487YPZ) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:qCVM3e) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:QTn5d6) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:p3Rtxh) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:HeBXx7) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:v1PdKo) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:6Gqq4n) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:jqnUGH) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:8Auyu6) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:PrrfM8) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:X3wjqC) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:M7s29D) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep",
+      60
+    ],
+    [
+      "working at the counter",
+      120
+    ],
+    [
+      "working at the counter\n[(ID:Hc7W7s) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:h0aJ1s) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:hj8vzs) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:i6B2Ls) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:j60OLs) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:jtcuks) Monday February 13 -- 07:00 PM] Activity: Isabella is working at the counter\n[(ID:krgDocs) Monday February 13 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe\n[(ID:lz6u3s) Monday February 13 -- 09:00 PM] Activity: Isabella is relaxing and unwinding after a long day\n[(ID:mbDLTs) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:nFg1R7) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep\n[(ID:onD2Rs) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine\n[(ID:puudNs) Monday February 13 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe\n[(ID:qYEoAs) Monday February 13 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe\n[(ID:rO5f4s) Monday February 13 -- 09:00 AM] Activity: Isabella is working at the counter\n[(ID:sPcN9s) Monday February 13 -- 10:00 AM] Activity: Isabella is working at the counter\n[(ID:t7gLLs) Monday February 13 -- 11:00 AM] Activity: Isabella is working at the counter\n[(ID:u53M5s) Monday February 13 -- 12:00 PM] Activity: Isabella is working at the counter\n[(ID:vjW6Ts) Monday February 13 -- 01:00 PM] Activity: Isabella is working at the counter\n[(ID:x5rT0s) Monday February 13 -- 02:00 PM] Activity: Isabella is working at the counter\n[(ID:yHtC8s) Monday February 13 -- 03:00 PM] Activity: Isabella is working at the counter\n[(ID:z7OK4s) Monday February 13 -- 04:00 PM] Activity: Isabella is working at the counter\n[(ID:A5tD5s) Monday February 13 -- 05:00 PM] Activity: Isabella is gathering party materials for the Valentine's Day party\n[(ID:B37rDs) Monday February 13 -- 06:00 PM] Activity: Isabella is announcing the party to customers and encouraging them to attend\n[(ID:CkHZFs) Monday February 13 -- 07:00 PM] Activity",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      600
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is being slept on",
+    "null"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
